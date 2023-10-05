@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Wang"
+  given-names: "Yu-Chen"
+title: "Notes on Confusions in the Zeroth-order Cosmology"
+version: v0.1.0
+doi: 10.5281/zenodo.8410307
+date-released: 2023-10-05
+url: "https://github.com/ycwang-hello/notes-on-cosmology"
