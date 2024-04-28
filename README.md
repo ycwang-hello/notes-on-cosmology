@@ -8,27 +8,25 @@
 
 可用以下BibTeX引用本作品To cite this work, you may use the following BibTeX code:
 ```bibtex
-@misc{Wang_Notes_on_Confusions_2023,
+@misc{Wang_Notes_on_Cosmology,
 author = {Wang, Yu-Chen},
 doi = {10.5281/zenodo.8410307},
-month = oct,
 title = {{Notes on Confusions in the Zeroth-order Cosmology}},
-year = {2023},
+year = {2024},
 publisher = {Zenodo},
-version = {v0.1.0},
+version = {v0.1.1},
 url = {https://doi.org/10.5281/zenodo.8410307},
 }
 ```
 可用以下BibTeX以中文引用本作品：
 ```bibtex
-@misc{Wang_Notes_on_Confusions_2023_ch,
+@misc{Wang_Notes_on_Cosmology_ch,
 author = {王彧辰},
 doi = {10.5281/zenodo.8410307},
-month = oct,
 title = {{零阶宇宙学误解辨析}},
-year = {2023},
+year = {2024},
 publisher = {Zenodo},
-version = {v0.1.0},
+version = {v0.1.1},
 url = {https://doi.org/10.5281/zenodo.8410307},
 }
 ```
